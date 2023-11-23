@@ -1,0 +1,77 @@
+Projeto
+
+1- Api sobre frases motivacionais com imagens que se referen a o contexto da frase, tipo; frase triste (imagem triste - aleatoria), frase pensativa (imagem pensativa - aleatoria), ...
+ além de ter a opção de cadastrar novas frases e acresentar o tipo de sentimento y/o acresentar imagens também 
+	
+
+
+
+
+Banco de Dados
+
+.-Contém:
+
+tabela
+	texto
+	id (sentimento)
+tabela 
+	imagen
+	gif-meme
+	
+
+
+
+
+
+tabela-1 (sentimento)
+Tipo	SentimentoId
+-raiva  1
+
+
+
+tabela-2 (frases)
+FraseMotivacional  SentimentoId
+-sobre raiva   	   1
+
+
+
+tabela-3 (imagens)
+imagem	gif	
+-raiva  raiva  
+
+
+
+
+
+
+
+
+
+https://www.google.com/search?q=como+enviar+dados+de+um+formulario+html+sem+sair+da+pagina&sca_esv=583487937&rlz=1C1GCEB_enBR1054BR1054&ei=KPlXZcSJGfjZ1sQP2cazwAY&ved=0ahUKEwjEvePsmcyCAxX4rJUCHVnjDGgQ4dUDCBA&uact=5&oq=como+enviar+dados+de+um+formulario+html+sem+sair+da+pagina&gs_lp=Egxnd3Mtd2l6LXNlcnAiOmNvbW8gZW52aWFyIGRhZG9zIGRlIHVtIGZvcm11bGFyaW8gaHRtbCBzZW0gc2FpciBkYSBwYWdpbmFIAFAAWABwAHgBkAEAmAEAoAEAqgEAuAEDyAEA-AEB4gMEGAAgQQ&sclient=gws-wiz-serp
+
+
+https://www.youtube.com/watch?v=TLkds5BJ-vA
+
+
+https://pt.stackoverflow.com/questions/278998/envio-de-formul%C3%A1rio-sem-recarregar-a-p%C3%A1gina
+
+
+https://horadecodar.com.br/como-transformar-array-em-json-em-javascript/
+
+
+
+https://celke.com.br/artigo/como-enviar-informacoes-do-javascript-para-o-html#:~:text=Primeiro%20ser%C3%A1%20apresentado%20como%20enviar,do%20JavaScript%20para%20o%20HTML.
+
+
+https://www.google.com/search?q=como+retornar+un+json+para+mi+html&rlz=1C1GCEB_enBR1054BR1054&oq=como+retornar+un+json+para+mi+html&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIJCAQQIRgKGKAB0gEJMTM3NDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+
+
+https://www.w3schools.com/jsref/dom_obj_event.asp
+
+
+
+
+https://awari.com.br/javascript-dom-events-list-lista-de-eventos-do-dom-document-object-model-em-javascript/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=JavaScript%20DOM%20Events%20List:%20Lista%20de%20eventos%20do%20DOM%20(Document%20Object%20Model)%20em%20JavaScript
+
+

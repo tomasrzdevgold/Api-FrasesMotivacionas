@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="http://localhost:3030/frase" method="post">
+        <label>Sentimento</label>
+        <select required name="tipo">
+
+            <option value="0">Escolha um sentimento</option>
+
+            <option value="alegria">Alegria</option>
+
+            <option value="raiva">Raiva</option>
+
+          </select> <br>
+          Quantas frases<input type="number" name="quantia" required> <br>
+
+          <input type="submit">
+    </form>
+<hr>
+<a href="/cadastro.html">Cadastra novas frases</a>
+
+</body>
+</html>
