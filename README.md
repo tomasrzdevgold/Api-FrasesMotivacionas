@@ -4,6 +4,10 @@
 relacionada com a frase. Além de ter a opção de cadastrar no banco de dados frases, sentimentos, imagens e/ou gif. As consultas são exportadas 
 em formato json.
 
+# Instalação da aplicação
+node
+npm install
+
 # Como utilizar a API
 
 1. Primeiro paso entrar no endereço da api, vai ser mostrado um simples formulario onde é possivel pôr:
