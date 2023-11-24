@@ -188,7 +188,7 @@ srv.post('/frase',(req,res)=>{
 
 
 
-srv.post('/cadastro',(req,res)=>{
+srv.post('/cadastrofrases',(req,res)=>{
     const valor = req.body.tipo
     const frase = req.body.frase
     if(valor === "1"){
